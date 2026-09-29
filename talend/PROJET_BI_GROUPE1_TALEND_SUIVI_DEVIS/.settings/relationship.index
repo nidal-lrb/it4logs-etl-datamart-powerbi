@@ -1,0 +1,201 @@
+[ {
+  "baseItem" : {
+    "id" : "_25_KYBWYEfCQlMjqeM-h9g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0PSUIBWXEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_hLdTUBWWEfC4VPVxnN3ZWg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0PSUIBWXEfCQlMjqeM-h9g - suivi_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_87PiMBWYEfCQlMjqeM-h9g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0PSUIBWXEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0PSUIBWXEfCQlMjqeM-h9g - info_commercial",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ALt0cBWZEfCQlMjqeM-h9g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_0PSUIBWXEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_0PSUIBWXEfCQlMjqeM-h9g - info_commercial",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_0PSUIBWXEfCQlMjqeM-h9g - suivi_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g - staging_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_B0zSIBWZEfCQlMjqeM-h9g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g - ods_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g - staging_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FDuFMBWZEfCQlMjqeM-h9g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g - ods_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - dim_client",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - dim_commercial",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - dim_produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - dim_statut_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - f_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Z28VkBeTEfCceeHASaktOQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g - ods_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - dim_client",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - dim_produit",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_J6li8BWYEfCQlMjqeM-h9g - dim_statut_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_gqGn0BWYEfCQlMjqeM-h9g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_25_KYBWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_87PiMBWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_ALt0cBWZEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_B0zSIBWZEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_FDuFMBWZEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_Z28VkBeTEfCceeHASaktOQ",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_izQygBeiEfC1gNwxPPMfhA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g - ods_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_BfIZkBWYEfCQlMjqeM-h9g - staging_devis",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,22 @@
+{
+    "commerciaux": [
+      {
+        "id_commercial": 44,
+        "profil_commercial": "confirmé",
+        "objectifs": {
+          "total": 10,
+          "atteints": 9,
+          "pourcentage_atteint": 90
+        }
+      },
+      {
+        "id_commercial": 45,
+        "profil_commercial": "sénior",
+        "objectifs": {
+          "total": 10,
+          "atteints": 8,
+          "pourcentage_atteint": 80
+        }
+      }
+    ]
+  }
