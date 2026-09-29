@@ -155,27 +155,27 @@
     "type" : "job"
   },
   "relatedItems" : [ {
-    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_25_KYBWYEfCQlMjqeM-h9g",
+    "id" : "IT4LOGS_ETL_DATAMART:_25_KYBWYEfCQlMjqeM-h9g",
     "version" : "Latest",
     "type" : "job"
   }, {
-    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_87PiMBWYEfCQlMjqeM-h9g",
+    "id" : "IT4LOGS_ETL_DATAMART:_87PiMBWYEfCQlMjqeM-h9g",
     "version" : "Latest",
     "type" : "job"
   }, {
-    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_ALt0cBWZEfCQlMjqeM-h9g",
+    "id" : "IT4LOGS_ETL_DATAMART:_ALt0cBWZEfCQlMjqeM-h9g",
     "version" : "Latest",
     "type" : "job"
   }, {
-    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_B0zSIBWZEfCQlMjqeM-h9g",
+    "id" : "IT4LOGS_ETL_DATAMART:_B0zSIBWZEfCQlMjqeM-h9g",
     "version" : "Latest",
     "type" : "job"
   }, {
-    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_FDuFMBWZEfCQlMjqeM-h9g",
+    "id" : "IT4LOGS_ETL_DATAMART:_FDuFMBWZEfCQlMjqeM-h9g",
     "version" : "Latest",
     "type" : "job"
   }, {
-    "id" : "PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS:_Z28VkBeTEfCceeHASaktOQ",
+    "id" : "IT4LOGS_ETL_DATAMART:_Z28VkBeTEfCceeHASaktOQ",
     "version" : "Latest",
     "type" : "job"
   } ]

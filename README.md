@@ -54,7 +54,7 @@ Le datamart a été modélisé en **étoile** avec l’outil ERD de pgAdmin : un
 
 ### 3. Alimentation avec Talend
 
-Le projet Talend complet est disponible dans [talend/](talend/PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS). Les jobs sont organisés par couche :
+Le projet Talend complet est disponible dans [talend/](talend/IT4LOGS_ETL_DATAMART). Les jobs sont organisés par couche :
 
 ![Arborescence des jobs Talend](images/04-talend-arborescence-jobs.png)
 
@@ -114,7 +114,7 @@ Le rapport Power BI ([powerbi/IT4Logs_suivi_devis.pbix](powerbi/IT4Logs_suivi_de
 
 1. **Base de données :** créer une base PostgreSQL, puis exécuter `sql/datamart_schema.sql`.
 2. **API :** lancer `npx json-server data/api_commerciaux.json --port 3000`.
-3. **Talend :** importer le dossier `talend/PROJET_BI_GROUPE1_TALEND_SUIVI_DEVIS` dans Talend Open Studio for Data Integration (8.0), puis renseigner les connexions (`Metadata > Db Connections`) avec vos propres paramètres.
+3. **Talend :** importer le dossier `talend/IT4LOGS_ETL_DATAMART` dans Talend Open Studio for Data Integration (8.0), puis renseigner les connexions (`Metadata > Db Connections`) avec vos propres paramètres.
 4. **Exécution :** lancer le job `G_ALIMENTATION_GLOBALE`.
 5. **Power BI :** ouvrir `powerbi/IT4Logs_suivi_devis.pbix`.
 
